@@ -66,7 +66,7 @@ $email = ($this->session->userdata['logged_in']['email']);
     </div>
   </nav>
 </header>
-    <h1> &emsp;  Guía de Implantación 06 - Inicio de Sesión y Seguridad.</h1>
+    <h1> &emsp;  Guía de Implantación 07 - Reportes.</h1>
     &emsp;<strong>  Alumno: </strong> <p> &emsp;Gerardo José Villeda Erazo</p> <br>
     &emsp;<strong>  Código: </strong> <p> &emsp;VE16I04001</p> <br>
     &emsp;<strong>  Materia: </strong> <P> &emsp;Implantación de Sistemas</P>  <br>

@@ -9,7 +9,7 @@
     </div>
 
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-12">
             <h3>Listado de Carreras</h3>
         </div>
         <div class="col-sm-6">
