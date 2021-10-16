@@ -16,8 +16,8 @@
             <a class="btn btn-success d-block" href="<?= site_url('materias/insertar') ?>">Agregar</a>
         </div>
         <br> 
-        <div>
-            <a href="<?=site_url('materias/report_todas_las_materias')?>">Reporte en PDF (Todas las materias)</a>
+        <div class="col-sm-6">
+            <a class="btn btn-info d-block" href="<?=site_url('materias/report_todas_las_materias')?>">Reporte en PDF (Todas las materias)</a>
         </div> 
         <br>
     </div>

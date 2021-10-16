@@ -16,8 +16,8 @@
             <a class="btn btn-success d-block" href="<?= site_url('estudiantes/insertar') ?>">Agregar</a>
         </div>
         <br> 
-        <div>
-            <a href="<?=site_url('estudiantes/report_todos_los_estudiantes')?>">Reporte en PDF (Todos los estudiantes)</a>
+        <div class="col-sm-6">
+            <a class="btn btn-info d-block" href="<?=site_url('estudiantes/report_todos_los_estudiantes')?>">Reporte en PDF (Todos los estudiantes)</a>
         </div> 
         <br>
     </div>

@@ -16,8 +16,8 @@
             <a class="btn btn-success d-block" href="<?= site_url('grupos/insertar') ?>">Agregar</a>
         </div>
         <br> 
-        <div>
-            <a href="<?=site_url('grupos/report_todos_los_grupos')?>">Reporte en PDF (Todos los grupos)</a>
+        <div class="col-sm-6">
+            <a class="btn btn-info d-block" href="<?=site_url('grupos/report_todos_los_grupos')?>">Reporte en PDF (Todos los grupos)</a>
         </div> 
         <br>
     </div>
